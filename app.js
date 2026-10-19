@@ -1,1 +1,1 @@
-console.log("Hola papus :V viva la graSA xd xd :V:V")
+console.log("Hola papus que ya no viva la grasa >:V - Version 2");
